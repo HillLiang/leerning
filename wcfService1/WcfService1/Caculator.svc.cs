@@ -11,7 +11,7 @@ namespace WcfService1
     // 注意: 为了启动 WCF 测试客户端以测试此服务，请在解决方案资源管理器中选择 Caculator.svc 或 Caculator.svc.cs，然后开始调试。
     public class Caculator : ICaculator
     {
-	//testting add some meaningless sentence
+	//testting add some meaningless sentence 1
         public double add(double x, double y)
         {
             return x + y;
@@ -34,6 +34,7 @@ namespace WcfService1
         public double subtract(double x, double y)
         {
             return x - y;
-        }
+        } 
+	// add the 6th sentence 6
     }
 }
