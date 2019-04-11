@@ -25,7 +25,7 @@ namespace WcfService1
             }
             return x / y;
         }
-
+        //this is a Multiplication method
         public double multiplication(double x, double y)
         {
             return x * y;
