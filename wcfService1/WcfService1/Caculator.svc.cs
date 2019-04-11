@@ -16,7 +16,7 @@ namespace WcfService1
         {
             return x + y;
         }
-
+        //this is a division method
         public double division(double x, double y)
         {
             if (y == 0)
