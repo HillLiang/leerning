@@ -30,7 +30,7 @@ namespace WcfService1
         {
             return x * y;
         }
-
+        // this is a subtract method 5
         public double subtract(double x, double y)
         {
             return x - y;
