@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfService1.Caculator" CodeBehind="Caculator.svc.cs" %>
+//test
